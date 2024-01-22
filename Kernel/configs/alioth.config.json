@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "alioth",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "alioth-r-oss",
+      "repo": "https://github.com/vyrine/android_kernel_xiaomi_sm8250",
+      "branch": "lineage-20-kernelsu",
       "device": "alioth",
-      "defconfig": "vendor/alioth_user_defconfig"
+      "defconfig": "vendor/xiaomi/alioth.config"
     },
     "toolchains": [
       {
